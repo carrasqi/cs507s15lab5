@@ -3,4 +3,10 @@ public class Hello {
       System.out.println("Hello, Java!");
       System.out.println("We are the bomb!");
       System.out.println("Jimmy, Imani, and Shannon");
+<<<<<<< HEAD
      
+=======
+      System.out.println("Update 1 lab 5")
+   }
+}
+>>>>>>> 59133cbad8625f9ada686636ccf879e3dad53572
